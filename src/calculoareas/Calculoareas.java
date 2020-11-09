@@ -16,6 +16,8 @@ LAS OPCIONES SERÍAN CIRCULO O CUADRILATERO
             - SI ES CUADRADO TENDRÉ QUE PEDIR 1 DATO Y CALCULO EL AREA
             - SI ES RECTÁNGULO TENDRÉ QUE PEDIR 2 DATOS Y CALCULO EL AREA
     - SERÁ NECESARIO CONTROLAR QUE NINGUNO DE LOS DATOS INTRODUCIDOS POR TECLADO SEA MENOR O IGUAL A CERO
+
+nueva version owo
  */
 package calculoareas;
 
@@ -88,6 +90,10 @@ public class Calculoareas {
           
           }
 
+          /*holiwi ^^
+          */
+          
+          
         }
     }
 }
